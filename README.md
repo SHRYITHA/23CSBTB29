@@ -5,3 +5,4 @@
 4.["https://github.com/SHRYITHA/23CSBTB29/blob/main/Assignment_03.ipynb"]
 5.["https://github.com/SHRYITHA/23CSBTB29/blob/main/ASSIGNMENT_4.ipynb"]
 6.["https://github.com/SHRYITHA/23CSBTB29/blob/main/Assignment5.ipynb"]
+7.["https://github.com/SHRYITHA/23CSBTB29/blob/main/AIML_A6.ipynb"]
