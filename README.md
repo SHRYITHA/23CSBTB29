@@ -8,4 +8,5 @@
 7.["https://github.com/SHRYITHA/23CSBTB29/blob/main/AIML_A6.ipynb"]
 8.["https://github.com/SHRYITHA/23CSBTB29/blob/main/Copy_of_SVM.ipynb"]
 9.["https://github.com/SHRYITHA/23CSBTB29/blob/main/Tree_classification.ipynb"]
+10.["https://github.com/SHRYITHA/23CSBTB29/blob/main/LAB_EXAM.ipynb"]
 
